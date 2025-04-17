@@ -1,0 +1,6 @@
+[submodule "klipper-toolchanger"]
+	path = klipper-toolchanger
+	url = https://github.com/viesturz/klipper-toolchanger
+[submodule "beacon_klipper"]
+	path = beacon_klipper
+	url = https://github.com/beacon3d/beacon_klipper.git
