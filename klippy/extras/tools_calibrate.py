@@ -1,7 +1,7 @@
 # Nozzle alignment module for 3d kinematic probes.
 #
-# This module has been adapted from code written by Kevin O'Connor <kevin@koconnor.net> and Martin Hierholzer <martin@hierholzer.info>
-# Sourced from https://github.com/ben5459/Klipper_ToolChanger/blob/master/probe_multi_axis.py
+# This module has been adapted from code written by Kevin O'Connor <kevin@koconnor.net>, Viesturs Zariņš <viesturz@gmail.com> and Martin Hierholzer <martin@hierholzer.info>
+# Sourced from https://github.com/viesturz/klipper-toolchanger/blob/main/klipper/extras/tools_calibrate.py and https://github.com/ben5459/Klipper_ToolChanger/blob/master/probe_multi_axis.py
 
 import logging
 
